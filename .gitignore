@@ -1,5 +1,5 @@
 /target
 /Cargo.lock
-RPS.dll
+r_p_s.dll
 RPS.exe
-settings.json
+.vscode
